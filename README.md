@@ -38,7 +38,6 @@ JavaScript (ES6) for game logic
 
 📸 Screenshots
 
-(You can add game screenshots here for better presentation)
 
 🔮 Future Improvements
 
